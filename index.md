@@ -24,7 +24,9 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 - Co-authored Avail's Light Client from scratch, bringing it to life
 - Oversee network-wide deployments, troubleshooting, and ensure top-notch observability
 - P2P network protocol development, simulation, and testing
-- Research and development of new features for Avails Data Availability Sampling
+- Research and development on a modular blockchain of new features for Avail's Data Availability Layer
+- Main focus was on data sampling and reconstruction using KZG commitments and erasure coding,
+  proof verification, and Kademlia DHT implementation
 
 🔗 [KademliaCon](https://hackmd.io/@matt/kadcon2023)
 
