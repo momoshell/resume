@@ -15,44 +15,6 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 
 ---
 
-## Selected Projects
-
-### **Mandala (BIS Inovation Hub)**
-*2024*
-
-- Participated in the creation of a fully functioning Mandala demo used to showcase designed transaction compliance
-- Developed core protocol logic and integration across Mandala nodes
-- Delivered reliable messaging and interoperability between the nodes
-
-🔗 [Mandala Announcement](https://www.linkedin.com/posts/activity-7256621277782679552-V4By/)
-
----
-
-### **Snarktor (Telos Network)**
-*Mar 2024 – Dec 2024*
-
-- Led development of a decentralized SNARK verification protocol for blockchain scaling
-- Focused on protocol architecture, node optimization, and scaling strategies
-- Built simulation environments and conducted performance testing
-- Contributed to network readiness and deployment plans
-
-🔗 [Snarktor Overview](https://www.telos.net/post/snarktor-a-decentralized-protocol-for-scaling-snarks-verification-in-blockchains)
-
----
-
-### **Gigachain (ZK L1 Infrastructure)**
-*2025 – Present*
-
-- Co-founded Gigachain, a next-gen L1 protocol optimized for Giga-scale zero-knowledge proof verification
-- Conducted deep R&D and delivered a working POC on Substrate
-- Modified core runtime components: inherent data providers, transaction pool, and block validation
-- Developed custom pallets and transaction validators
-- Achieved block-time-compatible in-house built prover integrations
-
-🔗 [gigachain.com](https://www.gigachain.com/)
-
----
-
 ## Experience
 
 ### **Software Engineer (Part-time)**
@@ -104,6 +66,45 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 - Delivered full-stack solutions using AngularJS, NodeJS, React, and Laravel for international clients
 
 ---
+
+## Selected Part Time Projects
+
+### **Mandala (BIS Inovation Hub)**
+*2024*
+
+- Participated in the creation of a fully functioning Mandala demo used to showcase designed transaction compliance
+- Developed core protocol logic and integration across Mandala nodes
+- Delivered reliable messaging and interoperability between the nodes
+
+🔗 [Mandala Announcement](https://www.linkedin.com/posts/activity-7256621277782679552-V4By/)
+
+---
+
+### **Snarktor (Telos Network)**
+*Mar 2024 – Dec 2024*
+
+- Led development of a decentralized SNARK verification protocol for blockchain scaling
+- Focused on protocol architecture, node optimization, and scaling strategies
+- Built simulation environments and conducted performance testing
+- Contributed to network readiness and deployment plans
+
+🔗 [Snarktor Overview](https://www.telos.net/post/snarktor-a-decentralized-protocol-for-scaling-snarks-verification-in-blockchains)
+
+---
+
+### **Gigachain (ZK L1 Infrastructure)**
+*2025 – Present*
+
+- Co-founded Gigachain, a next-gen L1 protocol optimized for Giga-scale zero-knowledge proof verification
+- Conducted deep R&D and delivered a working POC on Substrate
+- Modified core runtime components: inherent data providers, transaction pool, and block validation
+- Developed custom pallets and transaction validators
+- Achieved block-time-compatible in-house built prover integrations
+
+🔗 [gigachain.com](https://www.gigachain.com/)
+
+---
+
 
 ## Skills
 
