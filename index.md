@@ -18,7 +18,7 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 ## Experience
 
 ### **Senior Software Engineer (Full-time)**
-**Avail, Hybrid**
+**Avail, Remote**
 *Feb 2022 – Present (3 yrs 6 mos)*
 
 - Co-authored Avail's Light Client from scratch, bringing it to life
