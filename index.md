@@ -17,14 +17,6 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 
 ## Experience
 
-### **Software Engineer (Part-time)**
-**Ethernal, Belgrade, Serbia**
-*Nov 2021 – Present (3 yrs 10 mos)*
-
-- Contribute to web3 projects, building scalable and efficient solutions for top players like Polygon and Cosmos
-- Led the team behind the development of Polygon’s V3 client, driving both software and technical innovation
-- Was involved in the creation of the POC for the Cosmos Gravity Bridge
-
 ### **Senior Software Engineer (Full-time)**
 **Avail, Hybrid**
 *Feb 2022 – Present (3 yrs 6 mos)*
@@ -35,6 +27,14 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 - Research and development of new features for Avails Data Availability Sampling
 
 🔗 [KademliaCon](https://hackmd.io/@matt/kadcon2023)
+
+### **Software Engineer (Part-time)**
+**Ethernal, Belgrade, Serbia**
+*Nov 2021 – Present (3 yrs 10 mos)*
+
+- Contribute to web3 projects, building scalable and efficient solutions for top players like Polygon and Cosmos
+- Led the team behind the development of Polygon’s V3 client, driving both software and technical innovation
+- Was involved in the creation of the POC for the Cosmos Gravity Bridge
 
 ### **Senior Software Developer / Technical Lead**
 **Basiq, Belgrade, Serbia**
