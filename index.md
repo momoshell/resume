@@ -52,6 +52,8 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 
 - Enhanced user affordability analysis and API stability for critical partner integrations
 - Transitioned systems to serverless architecture and developed automation frameworks in Golang
+- Orchestrated headless browsers for large-scale web scraping and automated document reading via OCR, while avoiding security measures including rate limiting, behavioral CAPTCHAs, IP blacklisting and regional locks, device fingerprinting, and session management
+- Designed and coordinated the influx of massive data volumes into custom data lakes, supporting machine learning model training and in-depth income analysis
 
 ### **Senior Front End and Back End Developer**
 **Namfus, Reykjavik, Iceland**
@@ -70,6 +72,19 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 ---
 
 ## Selected Part Time Projects
+
+### **Gigachain (ZK L1 Infrastructure)**
+*2025 – Present*
+
+- Co-founded Gigachain, a next-gen L1 protocol optimized for Giga-scale zero-knowledge proof verification
+- Conducted deep R&D and delivered a working POC on Substrate
+- Modified core runtime components: inherent data providers, transaction pool, and block validation
+- Developed custom pallets and transaction validators
+- Achieved block-time-compatible in-house built prover integrations
+
+🔗 [gigachain.com](https://www.gigachain.com/)
+
+---
 
 ### **Mandala (BIS Inovation Hub)**
 *2024*
@@ -93,20 +108,6 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 🔗 [Snarktor Overview](https://www.telos.net/post/snarktor-a-decentralized-protocol-for-scaling-snarks-verification-in-blockchains)
 
 ---
-
-### **Gigachain (ZK L1 Infrastructure)**
-*2025 – Present*
-
-- Co-founded Gigachain, a next-gen L1 protocol optimized for Giga-scale zero-knowledge proof verification
-- Conducted deep R&D and delivered a working POC on Substrate
-- Modified core runtime components: inherent data providers, transaction pool, and block validation
-- Developed custom pallets and transaction validators
-- Achieved block-time-compatible in-house built prover integrations
-
-🔗 [gigachain.com](https://www.gigachain.com/)
-
----
-
 
 ## Skills
 
