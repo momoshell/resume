@@ -33,7 +33,7 @@ Senior Software Engineer specializing in blockchain infrastructure, P2P networks
 
 ### **Senior Software Engineer (Full-time)**
 **Avail, Remote**
-*Feb 2022 – Present (3 yrs 6 mos)*
+*Feb 2022 – Dec 2025 (3 yrs 10 mos)*
 
 - Co-authored Avail's Light Client from scratch, bringing it to life
 - Oversee network-wide deployments, troubleshooting, and ensure top-notch observability
