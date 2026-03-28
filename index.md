@@ -9,9 +9,23 @@ Belgrade, Serbia
 
 ## Summary
 
-Experienced Senior Web Developer with a passion for full-stack development, team leadership, and cutting-edge technologies. Skilled in designing scalable systems, leading Machine Learning and data-focused teams, and transitioning legacy codebases to modern architectures.
+Senior Software Engineer specializing in blockchain infrastructure, P2P networks, and zero-knowledge proof systems. 10+ years building scalable systems from startup MVPs to production blockchain protocols. Led teams at Basiq, contributed to Polygon and Cosmos ecosystems, and co-founded Gigachain.
 
-Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, turning bold ideas into digital successes with a blend of tech savvy and entrepreneurial flair.
+## Core Skills
+
+| Domain | Technologies |
+|--------|-------------|
+| Blockchain | Substrate, KZG Commitments, ZK Proofs, P2P/DHT |
+| Languages | Rust (Primary), Golang, JavaScript/TypeScript |
+| Infrastructure | AWS, Microservices, MLOps |
+| Leadership | Team Management, Technical Mentorship |
+
+## Highlights
+
+- 🚀 Co-authored Avail Light Client — core infrastructure for blockchain data availability
+- 📈 Led Polygon V3 client development for Ethernal
+- 🔬 R&D in ZK proof verification (Gigachain, Snarktor)
+- 🏗️ Designed high-throughput MLOps systems at Basiq
 
 ---
 
@@ -35,25 +49,20 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 *Nov 2021 – Present (3 yrs 10 mos)*
 
 - Contribute to web3 projects, building scalable and efficient solutions for top players like Polygon and Cosmos
-- Led the team behind the development of Polygon’s V3 client, driving both software and technical innovation
+- Led the team behind the development of Polygon's V3 client, driving both software and technical innovation
 - Was involved in the creation of the POC for the Cosmos Gravity Bridge
 
-### **Senior Software Developer / Technical Lead**
+### **Technical Lead**
 **Basiq, Belgrade, Serbia**
-*Dec 2020 – Feb 2022*
+*May 2019 – Feb 2022*
 
 - Led two teams in Machine Learning, data aggregation, and statistical representation
 - Designed high-throughput systems and MLOps solutions using Golang, AWS, and microservices
-- Oversaw recruitment, best practices, and legacy system maintenance
-
-### **Senior Software Developer / Team Leader**
-**Basiq, Belgrade, Serbia**
-*May 2019 – Apr 2023*
-
 - Enhanced user affordability analysis and API stability for critical partner integrations
 - Transitioned systems to serverless architecture and developed automation frameworks in Golang
-- Orchestrated headless browsers for large-scale web scraping and automated document reading via OCR, while avoiding security measures including rate limiting, behavioral CAPTCHAs, IP blacklisting and regional locks, device fingerprinting, and session management
-- Designed and coordinated the influx of massive data volumes into custom data lakes, supporting machine learning model training and in-depth income analysis
+- Orchestrated headless browsers for large-scale web scraping and automated document reading via OCR
+- Designed data lakes supporting machine learning model training and income analysis
+- Oversaw recruitment, best practices, and legacy system maintenance
 
 ### **Senior Front End and Back End Developer**
 **Namfus, Reykjavik, Iceland**
@@ -71,7 +80,7 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 
 ---
 
-## Selected Part Time Projects
+## Notable Projects
 
 ### **Gigachain (ZK L1 Infrastructure)**
 *2025 – Present*
@@ -106,14 +115,6 @@ Serial startup whisperer: I’ve launched and scaled multiple web dev ventures, 
 - Contributed to network readiness and deployment plans
 
 🔗 [Snarktor Overview](https://www.telos.net/post/snarktor-a-decentralized-protocol-for-scaling-snarks-verification-in-blockchains)
-
----
-
-## Skills
-
-**Languages/Frameworks:** Primarily Rust, used to: Golang, JavaScript, React, NodeJS
-**Technologies:** AWS, Microservices, Machine Learning, Data Aggregation
-**Leadership:** Team Management, Best Practices, Mentorship
 
 ---
 
