@@ -1,6 +1,6 @@
 # Momčilo Miladinović
 
-**Senior Software Engineer**
+**R&D Team Lead | Blockchain Infrastructure & Protocol Engineering**
 Belgrade, Serbia
 📧 [mdmiladinovic@gmail.com](mailto:mdmiladinovic@gmail.com) | 📞 +38162621116
 🔗 [GitHub](https://github.com/momoshell) | [LinkedIn](https://www.linkedin.com/in/mdmiladinovic)
@@ -9,98 +9,106 @@ Belgrade, Serbia
 
 ## Summary
 
-Senior Software Engineer specializing in blockchain infrastructure, P2P networks, and zero-knowledge proof systems. 10+ years building scalable systems from startup MVPs to production blockchain protocols. Led teams at Basiq, contributed to Polygon and Cosmos ecosystems, and co-founded Gigachain.
+Hands-on R&D Team Lead with 10+ years of software engineering experience, specializing in blockchain infrastructure, P2P networks, and zero-knowledge proof systems. Currently leading node software R&D at SSV Labs, with work spanning Ethereum protocol upgrades, security remediation, and AI-assisted engineering workflows. Co-authored Avail's Light Client, led Polygon V3 client development at Ethernal, and co-founded Gigachain. Combines protocol research and production engineering with experience leading teams across blockchain and fintech.
 
 ## Core Skills
 
-| Domain | Technologies |
-|--------|-------------|
-| Blockchain | Substrate, KZG Commitments, ZK Proofs, P2P/DHT |
-| Languages | Rust (Primary), Golang, JavaScript/TypeScript |
-| Infrastructure | AWS, Microservices, MLOps |
-| Leadership | Team Management, Technical Mentorship |
+| Domain | Technologies & Expertise |
+|--------|--------------------------|
+| Blockchain | Ethereum, Distributed Validator Technology (DVT), Substrate, Data Availability, P2P/Kademlia DHT |
+| Cryptography | KZG Commitments, Erasure Coding, ZK Proof Verification |
+| Languages | Rust (Primary), Go, JavaScript/TypeScript |
+| Infrastructure & Tooling | AWS, Microservices, Observability, MLOps, AI-Assisted Workflows |
+| Leadership & Security | R&D Team Leadership, Technical Mentorship, Vulnerability Remediation, Security Hardening |
 
 ## Highlights
 
-- 🚀 Co-authored Avail Light Client — core infrastructure for blockchain data availability
-- 📈 Led Polygon V3 client development for Ethernal
-- 🔬 R&D in ZK proof verification (Gigachain, Snarktor)
-- 🏗️ Designed high-throughput MLOps systems at Basiq
+- Lead SSV node software R&D, including work on Ethereum's Glamsterdam upgrade and enshrined proposer-builder separation (ePBS)
+- Patched multiple security vulnerabilities and proposed additional hardening measures at SSV Labs
+- Co-authored Avail's Light Client — core infrastructure for blockchain data availability
+- Led Polygon V3 client development at Ethernal and decentralized SNARK verification protocol development for Snarktor
+- Co-founded Gigachain and delivered a Substrate-based proof of concept for ZK proof verification
 
 ---
 
 ## Experience
 
+### **Research & Development Team Lead**
+**[SSV Labs](https://www.ssvlabs.io/)**
+*Jan 2026 – Present*
+
+- Lead R&D for SSV node software supporting Ethereum's distributed validator infrastructure
+- Develop node support for Ethereum's Glamsterdam upgrade, including enshrined proposer-builder separation (ePBS)
+- Patched multiple security vulnerabilities and proposed hardening measures to address underlying weaknesses
+- Implemented AI-assisted workflows within the team's engineering process
+
 ### **Senior Software Engineer (Full-time)**
 **Avail, Remote**
-*Feb 2022 – Dec 2025 (3 yrs 10 mos)*
+*Feb 2022 – Dec 2025*
 
-- Co-authored Avail's Light Client from scratch, bringing it to life
-- Oversee network-wide deployments, troubleshooting, and ensure top-notch observability
-- P2P network protocol development, simulation, and testing
-- Research and development, on a modular blockchain, of new features for Avail's Data Availability Layer
-- Main focus was on data sampling and reconstruction using KZG commitments and erasure coding,
-  proof verification, and Kademlia DHT implementation
+- Co-authored Avail's Light Client from the ground up for its modular blockchain data availability layer
+- Developed data sampling, reconstruction, and proof verification using KZG commitments and erasure coding
+- Built P2P networking capabilities using Kademlia DHT, supported by protocol simulation and testing
+- Managed network-wide deployments, troubleshooting, and observability
+- Researched and developed new features for Avail's data availability infrastructure
 
 🔗 [KademliaCon](https://hackmd.io/@matt/kadcon2023)
 
 ### **Software Engineer (Part-time)**
 **Ethernal, Belgrade, Serbia**
-*Nov 2021 – Present (3 yrs 10 mos)*
+*Nov 2021 – Aug 2025*
 
-- Contribute to web3 projects, building scalable and efficient solutions for top players like Polygon and Cosmos
-- Led the team behind the development of Polygon's V3 client, driving both software and technical innovation
-- Was involved in the creation of the POC for the Cosmos Gravity Bridge
+- Led the team developing Polygon's V3 client, guiding technical direction and implementation
+- Contributed to blockchain infrastructure projects across the Polygon and Cosmos ecosystems
+- Contributed to the Cosmos Gravity Bridge proof of concept
 
 ### **Technical Lead**
 **Basiq, Belgrade, Serbia**
 *May 2019 – Feb 2022*
 
-- Led two teams in Machine Learning, data aggregation, and statistical representation
-- Designed high-throughput systems and MLOps solutions using Golang, AWS, and microservices
-- Enhanced user affordability analysis and API stability for critical partner integrations
-- Transitioned systems to serverless architecture and developed automation frameworks in Golang
-- Orchestrated headless browsers for large-scale web scraping and automated document reading via OCR
-- Designed data lakes supporting machine learning model training and income analysis
-- Oversaw recruitment, best practices, and legacy system maintenance
+- Led two teams working on machine learning, data aggregation, and statistical analysis
+- Designed high-throughput systems and MLOps infrastructure using Go, AWS, and microservices
+- Improved affordability analysis and API stability for critical partner integrations
+- Migrated systems to serverless architecture and built automation frameworks in Go
+- Built large-scale web scraping and OCR-based document processing pipelines
+- Designed data lakes for model training and income analysis; oversaw recruitment, engineering practices, and legacy system maintenance
 
 ### **Senior Front End and Back End Developer**
 **Namfus, Reykjavik, Iceland**
 *Sep 2017 – May 2019*
 
-- Enhanced UI performance by implementing SSR in React, reducing render times by 45%
-- Took on full-stack duties, leading the integration of microservice architecture into the backend infrastructure
-- Managed key UI packages and introduced GraphQL microservices to streamline data handling
+- Reduced render times by 45% by implementing server-side rendering in React
+- Led backend microservices integration while delivering full-stack features
+- Maintained shared UI packages and introduced GraphQL microservices
 
 ### **Web Developer (Various Roles)**
 **Multiple Employers, Iceland & Serbia**
 *2014 – 2017*
 
-- Delivered full-stack solutions using AngularJS, NodeJS, React, and Laravel for international clients
+- Delivered full-stack applications using AngularJS, Node.js, React, and Laravel for international clients
 
 ---
 
 ## Notable Projects
 
 ### **Gigachain (ZK L1 Infrastructure)**
-*2025 – Present*
+*2025*
 
-- Co-founded Gigachain, a next-gen L1 protocol optimized for Giga-scale zero-knowledge proof verification
-- Conducted deep R&D and delivered a working POC on Substrate
-- Modified core runtime components: inherent data providers, transaction pool, and block validation
-- Developed custom pallets and transaction validators
-- Achieved block-time-compatible in-house built prover integrations
+- Co-founded an L1 protocol focused on large-scale zero-knowledge proof verification
+- Researched protocol design and delivered a working proof of concept on Substrate
+- Modified inherent data providers, the transaction pool, and block validation; developed custom pallets and transaction validators
+- Integrated in-house provers within block-time constraints
 
 🔗 [gigachain.com](https://www.gigachain.com/)
 
 ---
 
-### **Mandala (BIS Inovation Hub)**
+### **Mandala (BIS Innovation Hub)**
 *2024*
 
-- Participated in the creation of a fully functioning Mandala demo used to showcase designed transaction compliance
+- Helped deliver a working demo showcasing transaction compliance
 - Developed core protocol logic and integration across Mandala nodes
-- Delivered reliable messaging and interoperability between the nodes
+- Implemented reliable inter-node messaging and interoperability
 
 🔗 [Mandala Announcement](https://www.linkedin.com/posts/activity-7256621277782679552-V4By/)
 
@@ -110,9 +118,8 @@ Senior Software Engineer specializing in blockchain infrastructure, P2P networks
 *Mar 2024 – Dec 2024*
 
 - Led development of a decentralized SNARK verification protocol for blockchain scaling
-- Focused on protocol architecture, node optimization, and scaling strategies
-- Built simulation environments and conducted performance testing
-- Contributed to network readiness and deployment plans
+- Developed protocol architecture, node optimizations, and scaling strategies
+- Built simulation environments and performance tests; contributed to network readiness and deployment planning
 
 🔗 [Snarktor Overview](https://www.telos.net/post/snarktor-a-decentralized-protocol-for-scaling-snarks-verification-in-blockchains)
 
